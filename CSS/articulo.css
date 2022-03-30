@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    border-top: black solid 4px;
+    border-bottom: black solid 4px;
+    padding: 5px 0 5px 0;
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gray;
+}
+p{
+    float: left;
+    width: 50%;
+    clear: both;
+    margin-left: 8%;
+}
+img{
+    width: 25%;
+    margin-left: 5%;
+}

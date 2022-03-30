@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin: 5% 0 0 0;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 3px 2px 2px orange;
+}
+.container{
+    float: left;
+    margin: 5% 0 0 5% ;   
+    width: 34%;
+    border: 4px solid black;
+    border-radius: 10%;
+    height: 10rem;
+    padding: 5% 0 0 5%;
+    box-shadow: 8px 8px 6px 4px;
+    transition: all 1s linear ;
+}
+.atom img{
+    width: 40%;
+    margin-left: -7%;
+}
+.RSS img{
+    width: 22%;
+}
+
+img:hover{
+    transform: scale(1.3);
+}
