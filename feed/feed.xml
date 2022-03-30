@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    
+    <channel>
+        <title>Prueba de feed Diego</title>
+        <link>#</link>
+        <description>Canal para la prueba del feed</description>
+
+        <item>
+            <title>Tiempo de Santa Cruz de Tenerife</title>
+            <link>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</link>
+            <description>Para saber el tiempo en Santa Cruz ahora mismo a través de www.tiempo24.es</description>
+        </item>
+
+        <item>
+            <title>Articulo con HTML</title>
+            <link>../HTML/Articulo.html</link>
+            <description>La brutal represalia contra el niño que casi asesina a Mussolini: «No duró ni un minuto y medio»</description>
+        </item>
+
+        <item>
+            <title>Odesa, la monumental ciudad de Ucrania que fundó un militar español y ahora está en peligro de muerte</title>
+            <link>https://www.abc.es/historia/abci-odesa-monumental-ciudad-ucrania-fundo-militar-espanol-y-ahora-esta-peligro-muerte-202203300044_noticia.html</link>
+            <description>El conde de Ribas coordinó sobre el terreno la fundación de la ciudad, con una nueva fortaleza y un puerto diseñados por el ingeniero neerlandés Franz de Volán</description>
+        </item>
+
+    </channel>
+</rss>
