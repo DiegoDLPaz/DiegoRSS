@@ -27,7 +27,9 @@ h1{
 .RSS img{
     width: 22%;
 }
-
+.valid img{
+    margin:0  0 7% 23% ;
+}
 img:hover{
     transform: scale(1.3);
 }
