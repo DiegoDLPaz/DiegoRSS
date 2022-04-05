@@ -4,7 +4,7 @@
     <channel>
         <title>Prueba de feed Diego</title>
         <link>https://diegodlpaz.github.io/DiegoRSS/</link>
-        <atom:link href="https://diegodlpaz.github.io/DiegoRSS/feed/feed.xml"/>
+        <atom:link href="https://diegodlpaz.github.io/DiegoRSS/feed/feed.xml" rel="self"/>
         <description>Canal para la prueba del feed</description>
 
         <item>
