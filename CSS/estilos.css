@@ -24,6 +24,10 @@ h1{
     width: 40%;
     margin-left: -7%;
 }
+.atomval img{
+    width: 26%;
+    margin: 0 0 5% 10%;
+}
 .RSS img{
     width: 22%;
 }
